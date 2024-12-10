@@ -271,7 +271,7 @@ body {
   #hero {
     width: 100%;
     height: 100vh;
-    background: url("/assests/background.webp") top right no-repeat;
+    background: url("background.webp") top right no-repeat;
     background-size: cover;
     position: relative;
   }
